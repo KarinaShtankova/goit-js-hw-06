@@ -20,4 +20,4 @@ const markup = images
 	.join("");
 
 listRef.insertAdjacentHTML("beforeend", markup);
-console.log(markup);
+// console.log(markup);
